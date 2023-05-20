@@ -1,0 +1,101 @@
+body{
+    background-color: #050062;
+}
+.btn-outline-danger{
+    width: 150px;
+    height: 50px;
+    border: 3px solid red;
+    border-radius: 10px;
+font-size: 20px;
+    color: red;
+    transition: all 0.5s ease-in-out;
+}
+.btn-outline-danger:hover{
+    background-color: red;
+    border: 3px solid red;
+    color: white;
+}
+.btn-info{
+    width: 150px;
+    height: 50px;
+    border: 3px solid aqua;
+    border-radius: 30px;
+font-size: 20px;
+    color: white;
+    background-color: aqua;
+    transition: all 0.5s ease-in-out;
+    margin-left: 100px;
+}
+.btn-info:hover{
+    background-color: #117a8b;
+    border: 3px solid #117a8b;
+    color: white;
+}
+.btn-success{
+    width: 150px;
+    height: 50px;
+    border: 3px solid #007bff;
+    border-radius: 10px;
+font-size: 20px;
+    color: white;
+    background-color: #007bff;
+    transition: all 0.5s ease-in-out;
+    margin-left: 100px;
+}
+.btn-success:hover{
+    background-color: #007bff;
+    border: 3px solid #007bff;
+    color: white;
+}
+.btn-warning{
+    width: 150px;
+    height: 50px;
+    border: 3px solid gold;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: gold;
+    transition: all 0.5s ease-in-out;
+    margin-top: 50px;
+}
+.btn-warning:hover{
+    background-color: #050062;
+    border: 3px solid gold;
+    color: gold;
+}
+.btn-outline-dark{
+    width: 150px;
+    height: 50px;
+    border: 3px solid blueviolet;
+    border-radius: 0;
+    font-size: 20px;
+    color: blueviolet;
+    transition: all 0.5s ease-in-out;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.btn-outline-dark:hover{
+    background-color: blueviolet;
+    border: 3px solid blueviolet;
+    color: white;
+}
+.btn-outline-light{
+    width: 150px;
+    height: 50px;
+    border: 3px solid mediumspringgreen;
+    border-radius: 30px;
+font-size: 20px;
+    color: mediumspringgreen;
+    transition: all 0.5s ease-in-out;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.btn-outline-light:hover{
+    background-color: mediumspringgreen;
+    border: 3px solid mediumspringgreen;
+    color: white;
+}
+.row{
+    width: 1500px;
+    height: 500px;
+}

@@ -1,0 +1,38 @@
+.bgg{
+    width: 500px;
+    background-color:rgba(165, 14, 165, 0.72) ;
+}
+.bggg{
+    width: 400px;
+    background-color:#f511f5;
+}
+.tb{
+    margin-top: -220px;
+}
+.bt{
+    height: 185px;
+}
+.ww{
+    width: 300px;
+}
+.table-bordered td {
+    border: none;
+}
+.A{
+    border: 1px solid  rgba(165, 14, 165, 0.72);
+
+
+}
+.B{
+    border-radius: 10px;
+    border: 1px solid #f511f5;
+}
+.d{
+    height: 170px;
+    }
+.f{
+    border-radius: 10px !important;
+}
+.border1 {
+    border-radius: 10px;
+}
